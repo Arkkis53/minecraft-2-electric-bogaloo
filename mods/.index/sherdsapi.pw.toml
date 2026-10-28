@@ -1,0 +1,21 @@
+filename = 'sherdsapi-fabric-1.20.1-4.0.4.jar'
+name = 'Sherds API'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '4.0.4'
+
+[download]
+hash = 'bd019fdfbc8925a79f8c115d66c2e626b4f745de266f457d72946e43291c90a321007bf7249f22bbb6d568f44a7a7e066573069ab1f8b79272ad297609d61a6d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/nOUYhAZV/versions/uh4KCrsH/sherdsapi-fabric-1.20.1-4.0.4.jar'
+
+[update.modrinth]
+mod-id = 'nOUYhAZV'
+version = 'uh4KCrsH'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

@@ -1,0 +1,21 @@
+filename = 'Platform-fabric-1.20.1-1.4.2.jar'
+name = 'Platform'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.4.2'
+
+[download]
+hash = 'f75535c7cb913cfcc55f45c97b84d89c4b6dab23b52772cf197827c236ff9a6c1d696667da12c4885b5b4c500517711faf3e39984f257357f31fdddaf540391f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/i6fiqm5y/versions/vghFfekW/Platform-fabric-1.20.1-1.4.2.jar'
+
+[update.modrinth]
+mod-id = 'i6fiqm5y'
+version = 'vghFfekW'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

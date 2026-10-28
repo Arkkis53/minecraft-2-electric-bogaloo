@@ -1,0 +1,37 @@
+filename = 'trickytrialsbackport-fabric-2026.1.jar'
+name = 'Tricky Trials Backport'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2026.1-Fabric'
+
+[download]
+hash = 'c6bec4cbaefe334de695764cad847d82e3a39ace7593b0cef0b4f6cd9198a25f52df9d8db5919542eb7185e337585f5c37e12b6385010d9e7aea7344fefb5bd4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/lgEtxZFL/versions/UyEIiwET/trickytrialsbackport-fabric-2026.1.jar'
+
+[update.modrinth]
+mod-id = 'lgEtxZFL'
+version = 'UyEIiwET'
+
+[[x-prismlauncher-dependencies]]
+addonId = '6xwxDTgf'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'a1llHwl4'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'q8k4zHw5'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'nOUYhAZV'
+type = 'REQUIRED'

@@ -1,0 +1,49 @@
+filename = 'moreiotas-fabric-1.20.1-0.1.2.jar'
+name = 'MoreIotas'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.1.2'
+
+[download]
+hash = 'dc4c432c8d8ff20cb6f346a7ee3df2640d0047adc8706b7058f72e120f93aaec7f375a9ae33d0b01ed2a7e2a9910e37a3162d2c39e17bf4fbba9d4376d658607'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Jmt7p37B/versions/ibSppm0K/moreiotas-fabric-1.20.1-0.1.2.jar'
+
+[update.modrinth]
+mod-id = 'Jmt7p37B'
+version = 'ibSppm0K'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'K01OU20C'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'nTW3yKrm'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '9s6osm5g'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'TZo2wHFe'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'mOgUt4GM'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'nU0bVIaL'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'Ha28R6CL'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
